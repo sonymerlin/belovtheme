@@ -1,0 +1,16 @@
+{
+    "name": "acf/handbookview",
+    "title": "Handbookview",
+    "description": "Handbook posts view",
+    "style": [ "file:./handbookview.css" ],
+    "category": "formatting",
+    "icon": "admin-comments",
+    "keywords": ["handbookview", "posts"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "handbookview.php"
+    },
+    "supports": {
+        "anchor": true
+    }
+}
